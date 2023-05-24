@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Example1\" />
+    <None Remove="Example2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Example1\" />
+    <Folder Include="Example2\" />
+  </ItemGroup>
+</Project>
