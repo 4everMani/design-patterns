@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E524F827-FEF4-48FF-BF2A-345C8515F3F0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="1" />
+      <File FileName="AbstractLogLevel.cs" Line="13" Column="1" />
+      <File FileName="LogLevelEnum.cs" Line="12" Column="1" />
+      <File FileName="Log.cs" Line="11" Column="1" />
+      <File FileName="ErrorLogLevel.cs" Line="20" Column="43" />
+      <File FileName="WarningLogLevel.cs" Line="15" Column="103" />
+      <File FileName="logLevels/InfoLogLevel.cs" Line="14" Column="103" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibilityApp" expanded="True">
+            <Node name="ChainOfResponsibility" expanded="True">
+              <Node name="logLevels" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

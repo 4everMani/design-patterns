@@ -1,4 +1,37 @@
 ﻿<Properties StartupConfiguration="{019BB3B6-094A-4FE3-AD51-1A76C561F42B}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DecoratorDesignPattern FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example2/BasePizza.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Example1/AbstractHome.cs" />
+      <File FileName="Example1/ConcreteHome.cs" />
+      <File FileName="Example1/AbstractDecorator.cs" />
+      <File FileName="Example1/FloorDecorator.cs" />
+      <File FileName="Example1/PaintDecorator.cs" />
+      <File FileName="Example2/BasePizza.cs" Line="18" Column="1" />
+      <File FileName="Example2/AbstractPizza.cs" />
+      <File FileName="Example2/AbstractToppings.cs" />
+      <File FileName="Example2/OnionTopping.cs" />
+      <File FileName="Example2/ChilliTopping.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecoratorDesignPatternApp" expanded="True">
+            <Node name="DecoratorDesignPattern" expanded="True">
+              <Node name="Example2" expanded="True">
+                <Node name="BasePizza.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DecoratorDesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
